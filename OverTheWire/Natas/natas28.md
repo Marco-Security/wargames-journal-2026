@@ -79,7 +79,7 @@ Bloque 2: kes WHERE joke L     ← prefix fijo
 Bloque 3: IKE '%aaaaaaaaaa    ← 10 a's llenan el bloque
 Bloque 4:  UNION SELECT pa    ← payload SQL
 Bloque 5: ssword FROM user    ← payload SQL
-Bloque 6: s-- ____________    ← payload SQL
+Bloque 6: s-- \x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c    ← payload SQL
 Bloque 7: suffix
 Bloque 8: padding
 ```
