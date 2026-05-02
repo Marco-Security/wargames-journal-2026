@@ -11,7 +11,7 @@ El objetivo final es obtener la contraseña de `krypton5`.
 ## Acceso al nivel
 
 ```bash
-ssh krypton4@kargames.labs.overthewire.org -p 2231
+ssh krypton4@krypton.labs.overthewire.org -p 2231
 cd /krypton/krypton4
 ls -la
 ```
