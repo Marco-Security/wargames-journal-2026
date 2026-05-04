@@ -6,7 +6,7 @@
 |---|---|
 | Wargame | Krypton (OverTheWire) |
 | Nivel | krypton5 |
-| Contraseña obtenida | random |
+| Contraseña obtenida | RANDOM |
 
 ---
 
